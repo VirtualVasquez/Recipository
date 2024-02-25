@@ -1,5 +1,5 @@
-export default function Grocery(){
-    return(<h1>This IS 'Grocery' page </h1>)
+export default function Search(){
+    return(<h1>This IS 'Search' page </h1>)
 }
 
 //We'll have to figure it out, but this one page/url should be able to 
