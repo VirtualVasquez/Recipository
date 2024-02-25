@@ -5,6 +5,7 @@
 /client/.pnp
 /client/.pnp.js
 /client/.yarn/install-state.gz
+/server/node_modules
 
 # testing
 /client/coverage
@@ -39,3 +40,4 @@
 #Reference Files
 /client/src/pages/topics
 /client/src/learn
+
